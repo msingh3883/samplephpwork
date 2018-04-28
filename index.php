@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>DevOps 1st class-lab</h1>
+<h1>DevOps is not so difficult</h1>
 
 <?php
 echo "Version: 1.0";
